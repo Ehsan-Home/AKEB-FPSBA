@@ -29,6 +29,6 @@ The transparent, decentralized, and immutable properties of public blockchains m
 - [Source code](https://github.com/AKEB-asyemmtric-key-each-bidder)
 - [Technical report](https://dspace.library.uvic.ca/handle/1828/14292)
 
-@ Ehsan Ghasaei, 2023, Univeristy of Victoria (UVIC)
+@ Ehsan Ghasaei, 2023, University of Victoria (UVIC)
 
 
